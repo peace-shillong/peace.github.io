@@ -4,7 +4,7 @@ This is a demo page...
 Trying to use Markdowns...
 
 ## About Me: 
-  - If your on github then lets collaborate [My Github Profile](https://github.com/peace-shillong)
+  - If your on github then lets collaborate, visit [My Github Profile](https://github.com/peace-shillong)
   - I am Introvert, loves to listen, committed at what I'm doing, reliable, responsible, supportive, enthusiastic, imaginative and observant. 
   - I get along with others well and make sure I do what is expected of me.
   - I appreciate tradition and like knowing how things were done in the past. 
@@ -15,9 +15,10 @@ Trying to use Markdowns...
 
 
   
-_You can checkout my blogs here:_
-**[Our Meghalaya](https://ourmeghalaya.blogspot.in)**, a personal blog on the places I've Visited.
-[PeaceBwidu](https://peacebwidu.blogspot.in) -  my first blog, it mostly consists of my old posts.
+  _You can checkout my blogs here:_
+  **[Our Meghalaya](https://ourmeghalaya.blogspot.in)**, a personal blog on the places I've Visited.
+
+  [PeaceBwidu](https://peacebwidu.blogspot.in) -  my first blog, it mostly consists of my old posts.
 
 ### Hello World 
 
