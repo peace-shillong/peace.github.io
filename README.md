@@ -1,12 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages - created using the Jekyll Theme
 
-You can use the [editor on GitHub](https://github.com/peace-shillong/peace.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a demo page...
+Trying to use Markdowns...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About Me: 
+  - If your on github then lets collaborate [My Github Profile](https://github.com/peace-shillong)
+  - I am Introvert, loves to listen, committed at what I'm doing, reliable, responsible, supportive, enthusiastic, imaginative and observant. 
+  - I get along with others well and make sure I do what is expected of me.
+  - I appreciate tradition and like knowing how things were done in the past. 
+  - I'm Captivated by the Natural Beaty of my state(Meghalaya), that got me to write about it.
 
-### Markdown
+## Leisure activities include:
+  - Painting, Picnics, Nature walks, Reading, Graphics Design and blogging.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+  
+_You can checkout my blogs here:_
+**[Our Meghalaya](https://ourmeghalaya.blogspot.in)**, a personal blog on the places I've Visited.
+[PeaceBwidu](https://peacebwidu.blogspot.in) -  my first blog, it mostly consists of my old posts.
+
+### Hello World 
+
+## Using Markdowns
 
 ```markdown
 Syntax highlighted code block
@@ -28,10 +43,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### BUILD using Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/peace-shillong/peace.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
